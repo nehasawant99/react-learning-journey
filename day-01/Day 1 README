@@ -1,0 +1,24 @@
+# Day 01 – JavaScript Fundamentals
+
+## Topics Covered
+- Variables (let, const)
+- Functions
+- Arrays
+- Objects
+- Array of objects
+- map()
+- filter()
+
+## Practical Exercises
+1. Student information
+2. Calculate total marks
+3. Programming languages array
+4. Student object
+5. Array of student records
+6. Filter students based on marks
+
+## What I Learned
+I learned how JavaScript stores information using variables, arrays and objects. I also practised functions and array methods to work with student records.
+
+## Next Step
+Learn JavaScript ES6 features and practise writing reusable logic.
