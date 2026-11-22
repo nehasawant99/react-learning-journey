@@ -73,3 +73,11 @@ const students = [
 const passedStudents = students.filter(student => student.marks >= 80);
 
 console.log("Exercise 7:", passedStudents);
+
+
+/*add*/
+
+const a = 25;
+const b = 15;
+
+console.log(a+b);
